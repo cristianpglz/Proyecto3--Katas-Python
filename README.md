@@ -7,3 +7,9 @@ Creamos una funcion con un parametro con su valor predefinido,a continuacion den
 
 
 # Exercise 2
+Utilice dos maneras de hacer este ejercicio porque primero cree una manera de hacerlo y luego viendo informacion descubri otra manera que me parecio muy interesante y quise practicarla,la primera es la mas comun,creamos una lista de numeros,luego una funcion donde le pasamos el numero y dentro de la funcion multiplicamos por dos y devolvemos el resultado.una vez con todo eso creamos otra variable en el que en ella crea un duplicado de lista en el que dentro con map va recorrer cada numero y con la funcion multiplicarlo por dos.
+
+En la segunda manera,utiliza la misma lista de numeros,crea una variable en la que como antes duplica una lista,recorre la lista con el map crea una funcion anonima llamada lambda con el parametro x,multiplica x por 2,lo que nos devuelve el mismo resultado del anterior.
+
+
+# Exercise 3
