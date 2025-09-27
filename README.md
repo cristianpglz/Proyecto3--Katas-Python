@@ -13,3 +13,4 @@ En la segunda manera,utiliza la misma lista de numeros,crea una variable en la q
 
 
 # Exercise 3
+En este ejercicio e pensado mucho en los "posibles fallos" que pudiera haber,comence creando una lista con unas cuantas palabras,a continuacion una funcion que busque si la palabra esta en la lista mediante una list comprension y con un if y un bucle añadimos los resultados,luego e creado otra que haga la pregunta al usuario de cual es la palabra que ingresar,y ahi integre un bucle que pida la palabra,y busque cualquier posible espacio o numero o caracter especial que pueda haber,a mas agregue un par de except para que no se cuelgue si hay algun fallo.Por ultimo llamamos a la funcion.
