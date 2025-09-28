@@ -21,3 +21,7 @@ Lo primero fue crear las dos listas,lo segundo fue crear una varieable donde en 
 
 
 # Exercise 5
+Definimos las variables,creamos una funcion,dentro de la misma creamos una variable que recoja una suma de la lista de numeros y luego lo divida por su longitud,a continuacion,creamos un if que compare si el resultado es aprovado o suspento,por ultimo returnamos los resultados y fuera los printeamos.
+
+
+# Exercise 6
