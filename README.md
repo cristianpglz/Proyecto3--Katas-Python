@@ -25,3 +25,12 @@ Definimos las variables,creamos una funcion,dentro de la misma creamos una varia
 
 
 # Exercise 6
+igual que en el ejercicio 3,e creado una funcion para limpiar la consola y otra para recoger el numero que introduzca el usuario,por ultimo creamos otra funcion donde se recoge el numero se comprueba si es menor a 0,si es 0 o 1 
+y por ultimo se devuelve el numero por la llamada a la funcion -1.
+
+
+# Exercise 7
+creamos la lista de tuplas,creamos una funcion que recoja la lista,creamos una variable que cree una lista y recorra cada tupla,añadiendolo a la lista creada,por ultimo comprobamos su type y devolvemos el resultado.
+
+
+# Exercise 8
