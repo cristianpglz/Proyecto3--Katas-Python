@@ -34,3 +34,7 @@ creamos la lista de tuplas,creamos una funcion que recoja la lista,creamos una v
 
 
 # Exercise 8
+creaamos una funcion para la limpieza de terminal, otra para la recogida de los numeros introducida por el usuario,haciendo validacion de errores y devolviendo los valores y la llamada a la siguiente funcion,la cual creamos y hacemos la division entre los dos numeros que recoje y trabajamos en los posibles errores que pudiera haber.
+
+
+# Exercise 9
