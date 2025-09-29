@@ -38,3 +38,4 @@ creaamos una funcion para la limpieza de terminal, otra para la recogida de los 
 
 
 # Exercise 9
+creamos la variable con la lista de animales,luego la funcion para excluir,dentro creamos la variable de animales que no queremos,creamos otra donde dentro crearemos una lista filtrando con una funcion anonima donde lea cada una y la compare,luego printeamos el resultado.
