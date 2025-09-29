@@ -54,4 +54,8 @@ En este ejercicio vamos a crear una función que recoja una lista, y dentro calc
 
 Ejercicio 11
 
-comenzamos creando la funcion para borrar la consola,a continuacion creamos la funcion principal,la cual recoje la llamada del usuario y filtra que sean numeros y cantidad correcta,por ultimo y separada,creamos la funcion que maneja los posibles errores,y por ultimo la llamamos a la funcion que inicia el bucle.
+Comenzamos creando la funcion para borrar la consola,a continuacion creamos la funcion principal,la cual recoje la llamada del usuario y filtra que sean numeros y cantidad correcta,por ultimo y separada,creamos la funcion que maneja los posibles errores,y por ultimo la llamamos a la funcion que inicia el bucle.
+
+
+Ejercicio 12
+
