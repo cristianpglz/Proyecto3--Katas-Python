@@ -70,3 +70,8 @@ Iniciamos una funcion en la que en el interior creamos una variable con la frase
 Ejercicio 14
 
 Creamos las dos variables iniciales,una lista de palabras y una letra,a continuancion creamos una funcion que recoja las dos variables.Luego abrimos un try y dentro creamos una variable que cree una lista que dentro creara una funcion anonima donde filtrara cada inicio de palabra con la letra que se le solicita antes.por ultimo intentamos corregir cualquier tipo de error que pueda devolver.
+
+
+Ejercicio 15
+
+creamos la primera variable y le añadimos una lista de numeros,a continuacion creamos la otra variable que en su interior creara una lista donde recorra la lista anterior y sume 3 a cada numero.
