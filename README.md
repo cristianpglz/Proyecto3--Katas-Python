@@ -59,3 +59,4 @@ Comenzamos creando la funcion para borrar la consola,a continuacion creamos la f
 
 Ejercicio 12
 
+Creamos nuestra variable con la frase,creamos la funcion,en ella creamos otra variable que separe las palabras,por ultimo a la vez que printeamos creamos la lista haciendo map de result y sacando la medida de cada palabra.
