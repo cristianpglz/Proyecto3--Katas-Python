@@ -64,4 +64,9 @@ Creamos nuestra variable con la frase,creamos la funcion,en ella creamos otra va
 
 Ejercicio 13
 
-iniciamos una funcion en la que en el interior creamos una variable con la frase,creamos otra en la que filtre los espacios,y a continuacion otra que cree una lista recorra las letras las junte entre mayuscula y minuscula y las junte en una tupla.
+Iniciamos una funcion en la que en el interior creamos una variable con la frase,creamos otra en la que filtre los espacios,y a continuacion otra que cree una lista recorra las letras las junte entre mayuscula y minuscula y las junte en una tupla.
+
+
+Ejercicio 14
+
+Creamos las dos variables iniciales,una lista de palabras y una letra,a continuancion creamos una funcion que recoja las dos variables.Luego abrimos un try y dentro creamos una variable que cree una lista que dentro creara una funcion anonima donde filtrara cada inicio de palabra con la letra que se le solicita antes.por ultimo intentamos corregir cualquier tipo de error que pueda devolver.
