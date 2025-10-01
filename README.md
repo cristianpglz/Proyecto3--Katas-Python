@@ -75,3 +75,10 @@ Creamos las dos variables iniciales,una lista de palabras y una letra,a continua
 Ejercicio 15
 
 creamos la primera variable y le añadimos una lista de numeros,a continuacion creamos la otra variable que en su interior creara una lista donde recorra la lista anterior y sume 3 a cada numero.
+
+Ejercicio 16
+
+Comenzamos creando las variables que nos informa el titulo,a continuacion creamos una funcion que recoja los dos valores.procedemos abriendo un try y creamos una variable que cree una lista y filtre por palabras que sean mayores al valor recogido,a continuacion printeamos el resultado,y corregimos posibles errores comunes.
+
+Ejercicio 17
+
