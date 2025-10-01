@@ -82,3 +82,4 @@ Comenzamos creando las variables que nos informa el titulo,a continuacion creamo
 
 Ejercicio 17
 
+Importamos la funcion reduce,creamos la lista de numeros,creamos nuestra funcion y le pasamos la lista.Abrimos un try y en su interior creamos una variable la cual se va a encargar de multiplicar un numero por 10 y sumarle el siguiente.por ultimo prevenimos posibles errores.
