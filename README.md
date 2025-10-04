@@ -87,3 +87,9 @@ Importamos la funcion reduce,creamos la lista de numeros,creamos nuestra funcion
 Ejercicio 18 
 
 Creamos la lista de estudiantes con sus notas,creamos una funcion en la que en su interior crearemos una variable donde creara una lista y filtre en una funcion anonima la calificacion de estudiantes sea mayor a 90,por ultimo printeamos el resultado.
+
+Ejercicio 19
+
+Creamos la lista de numeros,luego una variable en la que dentro creara una lista que filtrara que el resto de una division no sea 0.
+
+Ejercicio 20
