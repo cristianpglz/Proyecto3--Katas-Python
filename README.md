@@ -93,3 +93,5 @@ Ejercicio 19
 Creamos la lista de numeros,luego una variable en la que dentro creara una lista que filtrara que el resto de una division no sea 0.
 
 Ejercicio 20
+
+Creamos una lista con valores integer y string,a continuacion creamos una funcion donde en su interior trabajaremos con una variable que crea una lista y filtra con isinstance los valores int de la lista recogida anteriormente.
