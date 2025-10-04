@@ -111,3 +111,8 @@ Creamos la lista con los numeros,luego la funcion donde añadiremos una variable
 
 Ejercicio 25
 Creamos la cadena de texto,luego una funcion que haga print de el tamaño del texto,incluyendo los espacios.
+
+Ejercicio 26
+Creamos la variable que utiliza la funcion lambda para hacer la division de dos numeros,por ultimo hacemos print y le pasamos los numeros.
+
+Ejercicio 27
