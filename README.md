@@ -95,3 +95,7 @@ Creamos la lista de numeros,luego una variable en la que dentro creara una lista
 Ejercicio 20
 
 Creamos una lista con valores integer y string,a continuacion creamos una funcion donde en su interior trabajaremos con una variable que crea una lista y filtra con isinstance los valores int de la lista recogida anteriormente.
+
+Ejercicio 21
+
+creamos la variable con el numero a trabajar,creamos la funcion y dentro creamos la variable que contenga la funcion lambda donde elevamos el numero que recogemos.por ultimo printeamos el resultado y recojemos el numero.
