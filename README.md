@@ -116,3 +116,5 @@ Ejercicio 26
 Creamos la variable que utiliza la funcion lambda para hacer la division de dos numeros,por ultimo hacemos print y le pasamos los numeros.
 
 Ejercicio 27
+
+creamos una funcion que recoja una lista de numeros,y dentro printeamos el resultado de sumar todos los numeros de la lista, y dividir entre el tamaño de la lista.
