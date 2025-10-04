@@ -109,3 +109,5 @@ Creamos la lista con las palabras,luego la funcion que guardando en una variable
 Ejercicio 24
 Creamos la lista con los numeros,luego la funcion donde añadiremos una variable que con reduce reste cada uno de los numeros.
 
+Ejercicio 25
+Creamos la cadena de texto,luego una funcion que haga print de el tamaño del texto,incluyendo los espacios.
