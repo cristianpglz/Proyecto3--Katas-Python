@@ -99,3 +99,9 @@ Creamos una lista con valores integer y string,a continuacion creamos una funcio
 Ejercicio 21
 
 creamos la variable con el numero a trabajar,creamos la funcion y dentro creamos la variable que contenga la funcion lambda donde elevamos el numero que recogemos.por ultimo printeamos el resultado y recojemos el numero.
+
+Ejercicio 22
+Lo primero que hice fue importar la funcion reduce de la libreria functools,luego cree la lista de numeros,a continuacion agregue la funcion que recoge la lista,en su interior creo la variable que utiliza el reduce con una lambda para multiplicar los numeros y devolver el resto,por ultimo printeamos el resultado.
+
+Ejercicio 23
+Creamos la lista con las palabras,luego la funcion que guardando en una variable utilice reduce y sume la primera palabra con un espacio y la segunda palabra,luego printeamos el resultado.
