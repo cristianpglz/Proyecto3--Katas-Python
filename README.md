@@ -105,3 +105,7 @@ Lo primero que hice fue importar la funcion reduce de la libreria functools,lueg
 
 Ejercicio 23
 Creamos la lista con las palabras,luego la funcion que guardando en una variable utilice reduce y sume la primera palabra con un espacio y la segunda palabra,luego printeamos el resultado.
+
+Ejercicio 24
+Creamos la lista con los numeros,luego la funcion donde añadiremos una variable que con reduce reste cada uno de los numeros.
+
