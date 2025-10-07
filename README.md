@@ -118,3 +118,6 @@ Creamos la variable que utiliza la funcion lambda para hacer la division de dos 
 Ejercicio 27
 
 creamos una funcion que recoja una lista de numeros,y dentro printeamos el resultado de sumar todos los numeros de la lista, y dividir entre el tamaño de la lista.
+
+Ejercicio 28
+Iniciamos la funcion que recoje los items,creamos una variable a la que le vamos a meter los repetidos,creamos un bucle for el cual leerea si un item esta en la lista o no,si esta devuelve ese item,si no,no lo añade.
