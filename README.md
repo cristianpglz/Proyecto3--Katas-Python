@@ -124,3 +124,9 @@ Iniciamos la funcion que recoje los items,creamos una variable a la que le vamos
 
 Ejercicio 29
 Añadimos una variable con numeros,a continuacion creamos una funcion que en su interior combierta la variable dada a un str y luego retornamos un # multiplicado por el largo de la variable menos 4 y por ultimo le sumamos una lista menos los cuato ultimos numeros.
+
+Ejercicio 30
+Creamos una funcion la cual separa las letras y las ordena en orden,comprueba si son iguales,si lo son devuelve true y si no false.
+
+Ejercicio 31
+Empezamos creando la funcion que comprueba que la palabra esta en la lista,si no lo esta da error,y luego creamos la funcion que pregunta al usuario las palabras para añadir a la lista y cual es el que quiere buscar,por ultimo llamamos a la funcion que comprueba la lista y se la pasamos como parametro.
