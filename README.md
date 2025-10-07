@@ -120,4 +120,7 @@ Ejercicio 27
 creamos una funcion que recoja una lista de numeros,y dentro printeamos el resultado de sumar todos los numeros de la lista, y dividir entre el tamaño de la lista.
 
 Ejercicio 28
-Iniciamos la funcion que recoje los items,creamos una variable a la que le vamos a meter los repetidos,creamos un bucle for el cual leerea si un item esta en la lista o no,si esta devuelve ese item,si no,no lo añade.
+Iniciamos la funcion que recoje los items,creamos una variable a la que le vamos a meter los repetidos,creamos un bucle for el cual leerea si un item esta en la lista o no,si esta devuelve ese item y lo agrega ,si no,no lo añade.
+
+Ejercicio 29
+Añadimos una variable con numeros,a continuacion creamos una funcion que en su interior combierta la variable dada a un str y luego retornamos un # multiplicado por el largo de la variable menos 4 y por ultimo le sumamos una lista menos los cuato ultimos numeros.
