@@ -133,3 +133,6 @@ Empezamos creando la funcion que comprueba que la palabra esta en la lista,si no
 
 Ejercicio 32
 Creamos la lista que va a recibir,y comenzamos con nuestra funcion,en ella creamos dos variables,una que busque si esta el nombre completo exactamente igual y la otra solo por una palabra.por ultimo buscamos si esta el nombre completo,si esta ese o alguno mas,si solo se escriben caracteres-numeros,y por ultimo si no esta.
+
+Ejercicio 33
+Creamos una funcion que recoja dos listas de numero y en su interior returne la suma de cada uno de sus numeros mediante una funcion lambda.
