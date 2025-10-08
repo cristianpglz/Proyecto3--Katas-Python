@@ -136,3 +136,7 @@ Creamos la lista que va a recibir,y comenzamos con nuestra funcion,en ella cream
 
 Ejercicio 33
 Creamos una funcion que recoja dos listas de numero y en su interior returne la suma de cada uno de sus numeros mediante una funcion lambda.
+
+
+Ejercicio 34
+Creamos una clase Arbol,añadimos la fincion inicial con el parametro el cual va a ser la base,a continuacion llamamos a todas las funciones las cuales paso a paso van a ir realizando su funcion.
