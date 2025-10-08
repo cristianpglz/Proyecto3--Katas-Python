@@ -130,3 +130,6 @@ Creamos una funcion la cual separa las letras y las ordena en orden,comprueba si
 
 Ejercicio 31
 Empezamos creando la funcion que comprueba que la palabra esta en la lista,si no lo esta da error,y luego creamos la funcion que pregunta al usuario las palabras para añadir a la lista y cual es el que quiere buscar,por ultimo llamamos a la funcion que comprueba la lista y se la pasamos como parametro.
+
+Ejercicio 32
+Creamos la lista que va a recibir,y comenzamos con nuestra funcion,en ella creamos dos variables,una que busque si esta el nombre completo exactamente igual y la otra solo por una palabra.por ultimo buscamos si esta el nombre completo,si esta ese o alguno mas,si solo se escriben caracteres-numeros,y por ultimo si no esta.
