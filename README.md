@@ -143,3 +143,6 @@ Creamos una clase Arbol,añadimos la fincion inicial con el parametro el cual va
 
 Ejercicio 35
 Creamos la clase UsuarioBanco,creamos las funciones basicas que nos pide el ejercicio y la principal en la que definimos todo parte por parte.en las funciones hacemos que cumplan sun funciones y corregir sus posibles errores.Por ultimo agregamos los usos solicitados por el enunciado.
+
+Ejercicio 36
+Comenzamos a crear la funcion principal del ejercicio,a continuacion creamos las tres funciones solicitadas en el enunciado.Creamos las posibles opciones que puede pedir el usuario y vamos uno a uno llamando a las funciones necesarias para cada evento.
