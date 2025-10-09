@@ -140,3 +140,6 @@ Creamos una funcion que recoja dos listas de numero y en su interior returne la 
 
 Ejercicio 34
 Creamos una clase Arbol,añadimos la fincion inicial con el parametro el cual va a ser la base,a continuacion llamamos a todas las funciones las cuales paso a paso van a ir realizando su funcion.
+
+Ejercicio 35
+Creamos la clase UsuarioBanco,creamos las funciones basicas que nos pide el ejercicio y la principal en la que definimos todo parte por parte.en las funciones hacemos que cumplan sun funciones y corregir sus posibles errores.Por ultimo agregamos los usos solicitados por el enunciado.
