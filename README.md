@@ -146,3 +146,7 @@ Creamos la clase UsuarioBanco,creamos las funciones basicas que nos pide el ejer
 
 Ejercicio 36
 Comenzamos a crear la funcion principal del ejercicio,a continuacion creamos las tres funciones solicitadas en el enunciado.Creamos las posibles opciones que puede pedir el usuario y vamos uno a uno llamando a las funciones necesarias para cada evento.
+
+
+Ejercicio 37
+Creamos la funcion que va a trabajar segun la hora que sea,con varias zonas marcadas por unas horas especificas y sus limitaciones,a continuacion despues de preguntar al usuario,marcamos con un try el resultado para recoger los minutos y corregir posibles errores.
