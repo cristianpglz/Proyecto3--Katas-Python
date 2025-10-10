@@ -153,3 +153,8 @@ Creamos la funcion que va a trabajar segun la hora que sea,con varias zonas marc
 
 Ejercicio 38
 Creamos una funcion la cual recoja la nota,y dependiendo de cada caso,entre un varemo de notas dara el resultado esperado.
+
+Ejercicio 39
+Creamos la funcion,y en ella coon los parametros recogidos comenzamos con las restricciones,si es rectangulo,base por altura,si es circulo es el radio elevado a dos por el numero pi,y en triangulo es base por altura entre dos.
+
+Ejercicio 40
