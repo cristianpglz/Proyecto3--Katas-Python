@@ -150,3 +150,6 @@ Comenzamos a crear la funcion principal del ejercicio,a continuacion creamos las
 
 Ejercicio 37
 Creamos la funcion que va a trabajar segun la hora que sea,con varias zonas marcadas por unas horas especificas y sus limitaciones,a continuacion despues de preguntar al usuario,marcamos con un try el resultado para recoger los minutos y corregir posibles errores.
+
+Ejercicio 38
+Creamos una funcion la cual recoja la nota,y dependiendo de cada caso,entre un varemo de notas dara el resultado esperado.
